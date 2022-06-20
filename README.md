@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+
+This is a react app that allows you to manage your expenses. not only that this react app has got a nice and smooth user-interface.
+
 ## Available Scripts
 
 In the project directory, you can run:
