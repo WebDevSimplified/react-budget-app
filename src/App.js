@@ -50,7 +50,7 @@ function App() {
               <BudgetCard
                 key={budget.id}
                 name={budget.name}
-                amount={amount}
+                amount={budget.amount}
                 max={budget.max}
                 onAddExpenseClick={() => openAddExpenseModal(budget.id)}
                 onViewExpensesClick={() =>
